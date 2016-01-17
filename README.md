@@ -5,12 +5,10 @@ The purpose of Hackathon 2016 is to introduce bioinformatics/computational biolo
 
 ##### Problem definition
 
-Hackathon is divided into two phases. In Phase I, you will be given two files called "a.bam" and "b.bam". 
+This Hackathon is divided into two Phases. In Phase I, you will be given two files called "a.bam" and "b.bam". 
 One of these files relate to targets of a particular (but unknown to you) protein binding the genome (ChIP-seq) and the other is simply sequencing the input DNA (background). Your job is to identify which file corresponds to protein-DNA
 binding and uncover the identity of this protein. Writing a shell script with two major command can answer the question:
-	- peak calling
-	- motif analysis
-You can find more information about these steps in the following. We will fully explain the major steps required to solve this problem during a meeting on February 19th, 2016, at 5pm in 301 BRB. We will briefly described the Phase II of Hackathon for more
+peak calling and motif analysis. You can find more information about these steps in the following. We will fully explain the major steps required to solve this problem during a meeting on February 19th, 2016, at 5pm in 301 BRB. We will briefly described the Phase II of Hackathon for more
 advanced students during this meeting as well. The following describes some basics required to solve this problem. 
 
 ##### Topics to be covered:
