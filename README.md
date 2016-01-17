@@ -10,7 +10,7 @@ One of these files relate to targets of a particular (but unknown to you) protei
 binding and uncover the identity of this protein. Writing a shell script with two major command can answer the question:
 	- peak calling
 	- motif analysis
-You can find more information about these steps in the following. We will fully explain the major steps required to solve this problem during a meeting on February 23, 2016. We will briefly described the phase II of Hackathon for more
+You can find more information about these steps in the following. We will fully explain the major steps required to solve this problem during a meeting on February 19th, 2016, at 5pm in 301 BRB. We will briefly described the phase II of Hackathon for more
 advanced students. The following describes some basics to solve this problem. 
 
 ##### Topics to be covered:
