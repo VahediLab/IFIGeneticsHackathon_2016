@@ -1,10 +1,7 @@
-## IFI/Genetics 2016 Self-Guided Tutorials
+## IFI/Genetics Hackathon 2016 Self-Guided Tutorials
 
 
-The purpose of Hackathon 2016 is to introduce bioinformatics/computational biology to Penn's IGG and GGR students who are not familiar with bioninformatics and computational biology. 
-
-First year GGR students taking GCB535/Introduction to Bioinformatics are already familiar with these topics and 
-are encouraged to participate. 
+The purpose of Hackathon 2016 is to introduce bioinformatics/computational biology to Penn's IGG and GGR students who are not familiar with bioninformatics and computational biology. First year GGR students taking GCB535/Introduction to Bioinformatics are already familiar with these topics and are encouraged to participate. 
 
 ##### Problem definition
 
